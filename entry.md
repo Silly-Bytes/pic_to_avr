@@ -1,6 +1,6 @@
 # From PIC to AVR
 
-This is my humble contribution to the *PIC vs AVR wholy war*.
+This is my humble contribution to the *PIC vs AVR holy war*.
 
 TL;DR: I was a PIC user but decided I hate it, switched to AVR and love it!
 
