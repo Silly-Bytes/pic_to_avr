@@ -6,11 +6,11 @@ TL;DR: I was a PIC user but decided I hate it, switched to AVR and love it!
 
 [PIC](https://en.wikipedia.org/wiki/PIC_microcontroller) from
 Microchip and [AVR](https://en.wikipedia.org/wiki/Atmel_AVR) from Atmel are both
-wonderful microcontrollers for hobbyist and professional as wells (I am a
-hobbyist only if you're wondering, and it is relevant).
+wonderful microcontrollers for hobbyist and professional as well (I am a
+hobbyist only if you're wondering).
 
 I used to love PIC microcontrollers and originally choose them because they are
-the more widely available in my location. But there are just so many annoyances
+the most widely available in my location. But there are just so many annoyances
 that AVR solves so wonderfully!
 
 
